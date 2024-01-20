@@ -1,6 +1,0 @@
-@WorkingHours.IdentityServer_HostAddress = http://localhost:5094
-
-GET {{WorkingHours.IdentityServer_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

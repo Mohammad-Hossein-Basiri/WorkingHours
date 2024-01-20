@@ -1,4 +1,4 @@
-namespace WorkingHours.Api.Pages.Device;
+namespace IdentityServerAspNetIdentity.Pages.Device;
 
 public class InputModel
 {

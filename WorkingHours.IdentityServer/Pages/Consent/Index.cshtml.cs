@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace WorkingHours.Api.Pages.Consent;
+namespace IdentityServerAspNetIdentity.Pages.Consent;
 
 [Authorize]
 [SecurityHeadersAttribute]

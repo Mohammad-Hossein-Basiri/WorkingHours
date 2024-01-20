@@ -1,4 +1,4 @@
-namespace WorkingHours.Api.Pages.Grants;
+namespace IdentityServerAspNetIdentity.Pages.Grants;
 
 public class ViewModel
 {

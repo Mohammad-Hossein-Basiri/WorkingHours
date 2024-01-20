@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Authentication;
 using System.Text;
 using System.Text.Json;
 
-namespace WorkingHours.Api.Pages.Diagnostics;
+namespace IdentityServerAspNetIdentity.Pages.Diagnostics;
 
 public class ViewModel
 {

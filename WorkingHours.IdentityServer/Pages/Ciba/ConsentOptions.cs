@@ -2,7 +2,7 @@
 // See LICENSE in the project root for license information.
 
 
-namespace WorkingHours.Api.Pages.Ciba;
+namespace IdentityServerAspNetIdentity.Pages.Ciba;
 
 public class ConsentOptions
 {

@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace WorkingHours.Api.Pages.Ciba;
+namespace IdentityServerAspNetIdentity.Pages.Ciba;
 
 [SecurityHeaders]
 [Authorize]

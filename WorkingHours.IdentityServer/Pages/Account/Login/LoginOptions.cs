@@ -1,4 +1,4 @@
-namespace WorkingHours.Api.Pages.Login;
+namespace IdentityServerAspNetIdentity.Pages.Login;
 
 public class LoginOptions
 {
